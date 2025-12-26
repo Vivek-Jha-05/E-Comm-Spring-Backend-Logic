@@ -84,6 +84,7 @@ Demonstrate clean architecture and REST API design
 
 Suitable for internships, backend roles, and portfolio
 
+---
 
 🔮 Future Enhancements
 
