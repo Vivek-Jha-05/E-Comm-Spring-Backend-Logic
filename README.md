@@ -96,7 +96,6 @@ User & Order management
 Pagination & sorting
 
 Swagger / OpenAPI documentation
-vivek ka papa
 Integration with MySQL / PostgreSQL
 
 Deployment (Docker / Cloud)
